@@ -1,3 +1,9 @@
+# testing-publish is a *test* branch that might be deleted
+
+I'm only publishing this branch because i believe complying with GPL is important.
+
+However, both this branch and the binaries derived from it might disappear in the future
+
 # Fossify Music Player
 
 <img alt="Logo" src="graphics/icon.webp" width="120" />
