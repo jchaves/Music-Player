@@ -23,7 +23,7 @@ room = "2.6.1"
 #Fossify
 commons = "8685963657"
 #Gradle
-gradlePlugins-agp = "8.2.2"
+gradlePlugins-agp = "8.3.0"
 #build
 app-build-compileSDKVersion = "34"
 app-build-targetSDK = "34"
@@ -33,9 +33,9 @@ app-build-kotlinJVMTarget = "17"
 #Helpers
 shortcut-badger = "1.1.22"
 #versioning
-app-version-appId = "org.fossify.musicplayer"
+app-version-appId = "es.chav.musicplayer"
 app-version-versionCode = "1"
-app-version-versionName = "1.0.0"
+app-version-versionName = "0.0.1"
 [libraries]
 #AndroidX
 androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version.ref = "androidx-constraintlayout" }
